@@ -1,8 +1,8 @@
 import React from "react";
 
 const navLinks = [
-  { title: "Resources", link: "/" },
-  { title: "Donate", link: "/" },
+  { title: "Resources", link: "https://nfb.org/" },
+  { title: "Donate", link: "https://nfb.org/contribute/give" },
   { title: "Learn More", link: "/" },
 ];
 
